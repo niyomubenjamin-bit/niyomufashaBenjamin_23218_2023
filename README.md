@@ -2,28 +2,27 @@
 
 A modern, fully responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
-## 📋 Project Information
+##  Project Information
 
-- **Student Name:** NIYOMUFASHA Benjamin
-- **Student ID:** 23218
-- **Year:** 2023
-- **Repository Name:** NIYOMUFASHABenjamin_23218_2023
+- **Name:** NIYOMUFASHA Benjamin
+- **Reg Number:** 23218/2023
+- **Repository Name:** NiyomufashaBenjamin_23218_2023
 
-## 🚀 Features
+##  Features
 
-- ✅ **Fully Responsive Design** - Works on all devices (mobile, tablet, desktop)
-- ✅ **Modern UI/UX** - Clean, professional design with smooth animations
-- ✅ **Semantic HTML5** - Proper structure and accessibility
-- ✅ **CSS Flexbox & Grid** - Modern layout techniques
-- ✅ **Interactive Navigation** - Smooth scroll and active section highlighting
-- ✅ **Animated Sections** - Fade-in effects and progress bars
-- ✅ **Contact Form** - Functional form with validation (front-end only)
-- ✅ **Social Media Integration** - FontAwesome icons for social links
-- ✅ **Download Resume** - Button to download CV/resume
-- ✅ **Scroll to Top Button** - Easy navigation back to top
-- ✅ **Mobile Menu** - Hamburger menu for mobile devices
+-  **Fully Responsive Design** - Works on all devices (mobile, tablet, desktop)
+-  **Modern UI/UX** - Clean, professional design with smooth animations
+-  **Semantic HTML5** - Proper structure and accessibility
+-  **CSS Flexbox & Grid** - Modern layout techniques
+-  **Interactive Navigation** - Smooth scroll and active section highlighting
+-  **Animated Sections** - Fade-in effects and progress bars
+-  **Contact Form** - Functional form with validation (front-end only)
+-  **Social Media Integration** - FontAwesome icons for social links
+-  **Download Resume** - Button to download CV/resume
+-  **Scroll to Top Button** - Easy navigation back to top
+-  **Mobile Menu** - Hamburger menu for mobile devices
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 NIYOMUFASHABenjamin_23218_2023/
@@ -35,14 +34,14 @@ NIYOMUFASHABenjamin_23218_2023/
 │
 └── assets/             # Asset folder for images and files
     ├── profile-photo.jpg   # Profile picture placeholder
-    ├── project1.jpg        # Project screenshot 1
-    ├── project2.jpg        # Project screenshot 2
-    ├── project3.jpg        # Project screenshot 3
-    ├── project4.jpg        # Project screenshot 4
+    ├── project1.png        # Project screenshot 1
+    ├── project2.png        # Project screenshot 2
+    ├── project3.png        # Project screenshot 3
+    ├── project4.png        # Project screenshot 4
     └── resume.pdf          # Resume/CV file
 ```
 
-## 📄 Sections Included
+##  Sections Included
 
 1. **Navigation Bar** - Responsive navbar with smooth scroll links
 2. **Home Section** - Hero section with profile photo and introduction
@@ -55,7 +54,7 @@ NIYOMUFASHABenjamin_23218_2023/
 9. **Contact Section** - Contact information and form
 10. **Footer** - Social links and copyright information
 
-## 🎨 Design Features
+##  Design Features
 
 - **Color Scheme:** Modern blue gradient theme
 - **Typography:** Clean, readable Segoe UI font family
@@ -63,7 +62,7 @@ NIYOMUFASHABenjamin_23218_2023/
 - **Animations:** Smooth hover effects, fade-ins, and transitions
 - **Icons:** FontAwesome 6.4.0 for social and UI icons
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5** - Semantic markup
 - **CSS3** - Modern styling with custom properties
@@ -77,7 +76,7 @@ NIYOMUFASHABenjamin_23218_2023/
 - **Mobile:** 480px - 767px
 - **Small Mobile:** Below 480px
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. **Clone or Download** the repository
 2. **Replace Placeholder Images:**
@@ -92,7 +91,7 @@ NIYOMUFASHABenjamin_23218_2023/
    - Replace placeholder URLs with your actual social media profiles
 5. **Open** `index.html` in your web browser
 
-### ✉️ Contact Form Setup
+###  Contact Form Setup
 
 **The contact form uses FormSubmit.co (free, no backend needed!)**
 
@@ -110,7 +109,7 @@ The form is already configured to send emails to `niyomubenjamin@gmail.com`.
 - Change `action="https://formsubmit.co/YOUR_EMAIL@gmail.com"`
 - Replace with your email address
 
-## 🌐 How to Use
+##  How to Use
 
 Simply open the `index.html` file in any modern web browser. No server or build process required!
 
@@ -130,7 +129,7 @@ npx http-server
 # Right-click on index.html and select "Open with Live Server"
 ```
 
-## ✏️ Customization Guide
+##  Customization Guide
 
 ### Colors
 Edit CSS variables in `styles.css` (lines 2-15):
@@ -155,45 +154,45 @@ All content can be edited directly in `index.html`:
 ### Layout
 Modify section layouts in `styles.css` using Grid and Flexbox properties.
 
-## 📋 Checklist of Requirements
+##  Checklist of Requirements
 
-- ✅ Repository name: `NIYOMUFASHABenjamin_23218_2023`
-- ✅ Main file: `index.html`
-- ✅ Name as comment at top of HTML and CSS files
-- ✅ Clean, structured, readable code
-- ✅ Responsive navigation bar (8 sections)
-- ✅ Hero section with profile photo and bio
-- ✅ Education section with timeline
-- ✅ Experience section with responsibilities
-- ✅ Projects section (4 projects with details)
-- ✅ Skills section (progress bars and tags)
-- ✅ Certificates & awards section
-- ✅ Contact section with all details
-- ✅ Contact form (Name, Email, Message)
-- ✅ Fully responsive with media queries
-- ✅ Flexbox and Grid layout
-- ✅ Semantic HTML
-- ✅ Uniform typography and color scheme
-- ✅ Smooth hover effects and transitions
-- ✅ FontAwesome social icons
-- ✅ Download resume button
-- ✅ Smooth scroll and typing effect animations
+-  Repository name: `NIYOMUFASHABenjamin_23218_2023`
+-  Main file: `index.html`
+-  Name as comment at top of HTML and CSS files
+-  Clean, structured, readable code
+-  Responsive navigation bar (8 sections)
+-  Hero section with profile photo and bio
+-  Education section with timeline
+-  Experience section with responsibilities
+-  Projects section (4 projects with details)
+-  Skills section (progress bars and tags)
+-  Certificates & awards section
+-  Contact section with all details
+-  Contact form (Name, Email, Message)
+-  Fully responsive with media queries
+-  Flexbox and Grid layout
+-  Semantic HTML
+-  Uniform typography and color scheme
+-  Smooth hover effects and transitions
+-  FontAwesome social icons
+-  Download resume button
+-  Smooth scroll and typing effect animations
 
-## 🎯 Bonus Features Included
+##  Bonus Features Included
 
-- ✨ Typing animation effect on home section
-- ✨ Smooth scroll behavior
-- ✨ Active navigation highlighting
-- ✨ Animated skill progress bars
-- ✨ Intersection Observer for fade-in animations
-- ✨ Scroll to top button
-- ✨ Mobile hamburger menu
-- ✨ Form validation with notifications
-- ✨ Hover effects on cards and buttons
-- ✨ Timeline layout for education
-- ✨ Project overlay effects
+-  Typing animation effect on home section
+-  Smooth scroll behavior
+-  Active navigation highlighting
+-  Animated skill progress bars
+-  Intersection Observer for fade-in animations
+-  Scroll to top button
+-  Mobile hamburger menu
+-  Form validation with notifications
+-  Hover effects on cards and buttons
+-  Timeline layout for education
+-  Project overlay effects
 
-## 📝 Notes for Students
+##  Notes for Students
 
 This portfolio is designed to be:
 - **Easy to customize** - Just update the HTML content
@@ -202,7 +201,7 @@ This portfolio is designed to be:
 - **Professional** - Ready for deployment
 - **Extensible** - Easy to add more sections or features
 
-## 🚀 Deployment
+##  Deployment
 
 You can deploy this website to:
 - **GitHub Pages** (Free)
@@ -217,7 +216,7 @@ You can deploy this website to:
 4. Select main branch as source
 5. Your site will be live at `https://yourusername.github.io/repository-name`
 
-## 📞 Support
+##  Support
 
 For any issues or questions about this portfolio:
 1. Check that all file paths are correct
@@ -225,16 +224,16 @@ For any issues or questions about this portfolio:
 3. Verify that all files are in the correct locations
 4. Test in different browsers (Chrome, Firefox, Safari, Edge)
 
-## 📜 License
+##  License
 
 This project is open source and available for educational purposes.
 
-## 👨‍💻 Author
+##  Author
 
 **NIYOMUFASHA Benjamin**
-- Student ID: 23218
-- Year: 2023
+- Student ID: 23218/2023
+
 
 ---
 
-**Happy Coding! 🎉**
+**Happy Coding!**
